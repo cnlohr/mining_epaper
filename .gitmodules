@@ -1,0 +1,6 @@
+[submodule "esp82xx"]
+	path = esp82xx
+	url = http://github.com/cnlohr/esp82xx
+[submodule "avrcraft"]
+	path = avrcraft
+	url = https://github.com/cnlohr/avrcraft
